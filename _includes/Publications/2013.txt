@@ -1,0 +1,907 @@
+1) Measurement of the $t \bar{t}$ production cross section in the dilepton channel in pp collisions at $\sqrt{s}$ = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.7582 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP02(2014)024">10.1007/JHEP02(2014)024</a>, <a href="http://dx.doi.org/10.1007/JHEP02(2014)102">10.1007/JHEP02(2014)102</a>.<br/>
+JHEP 1402 (2014) 024, Erratum: JHEP 1402 (2014) 102.<br/>
+<br/>
+2) Measurement of the production cross section for a W boson and two b jets in pp collisions at $\sqrt{s}$=7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.6608 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.06.041">10.1016/j.physletb.2014.06.041</a>.<br/>
+Phys.Lett. B735 (2014) 204-225.<br/>
+<br/>
+3) Measurement of four-jet production in proton-proton collisions at $\sqrt{s}=7$  TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.6440 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.89.092010">10.1103/PhysRevD.89.092010</a>.<br/>
+Phys.Rev. D89 (2014) no.9,  092010.<br/>
+<br/>
+4) Event activity dependence of Y(nS) production in $\sqrt{s_{NN}}$=5.02 TeV pPb and $\sqrt{s}$=2.76 TeV pp collisions<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.6300 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP04(2014)103">10.1007/JHEP04(2014)103</a>.<br/>
+JHEP 1404 (2014) 103.<br/>
+<br/>
+5) Measurement of the muon charge asymmetry in inclusive $pp \to W+X$ production at $\sqrt s =$ 7 TeV and an improved determination of light parton distribution functions<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.6283 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.90.032004">10.1103/PhysRevD.90.032004</a>.<br/>
+Phys.Rev. D90 (2014) no.3,  032004.<br/>
+<br/>
+6) Study of double parton scattering using W + 2-jet events in proton-proton collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.5729 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP03(2014)032">10.1007/JHEP03(2014)032</a>.<br/>
+JHEP 1403 (2014) 032.<br/>
+<br/>
+7) Measurement of the properties of a Higgs boson in the four-lepton final state<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.5353 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.89.092007">10.1103/PhysRevD.89.092007</a>.<br/>
+Phys.Rev. D89 (2014) no.9,  092007.<br/>
+<br/>
+8) Evidence of b-Jet Quenching in PbPb Collisions at $\sqrt{s_{NN}}=2.76$  TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.4198 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.113.132301">10.1103/PhysRevLett.113.132301</a>, <a href="http://dx.doi.org/10.1103/PhysRevLett.115.029903">10.1103/PhysRevLett.115.029903</a>.<br/>
+Phys.Rev.Lett. 113 (2014) no.13,  132301, Erratum: Phys.Rev.Lett. 115 (2015) no.2,  029903.<br/>
+<br/>
+9) Search for Flavor-Changing Neutral Currents in Top-Quark Decays $t \to Zq$ in $pp$ Collisions at $\sqrt{s}=8$  TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.4194 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.112.171802">10.1103/PhysRevLett.112.171802</a>.<br/>
+Phys.Rev.Lett. 112 (2014) no.17,  171802.<br/>
+<br/>
+10) Search for top squark and higgsino production using diphoton Higgs boson decays<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.3310 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.112.161802">10.1103/PhysRevLett.112.161802</a>.<br/>
+Phys.Rev.Lett. 112 (2014) 161802.<br/>
+<br/>
+11) Search for top-quark partners with charge 5/3 in the same-sign dilepton final state<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.2391 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.112.171801">10.1103/PhysRevLett.112.171801</a>.<br/>
+Phys.Rev.Lett. 112 (2014) no.17,  171801.<br/>
+<br/>
+12) Studies of azimuthal dihadron correlations in ultra-central PbPb collisions at $\sqrt{s_{NN}} =$ 2.76 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.1845 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP02(2014)088">10.1007/JHEP02(2014)088</a>.<br/>
+JHEP 1402 (2014) 088.<br/>
+<br/>
+13) Measurement of Higgs boson production and properties in the WW decay channel with leptonic final states<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1312.1129 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2014)096">10.1007/JHEP01(2014)096</a>.<br/>
+JHEP 1401 (2014) 096.<br/>
+<br/>
+14) Inclusive search for a vector-like T quark with charge $\frac{2}{3}$ in pp collisions at $\sqrt{s}$ = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.7667 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.01.006">10.1016/j.physletb.2014.01.006</a>.<br/>
+Phys.Lett. B729 (2014) 149-171.<br/>
+<br/>
+15) Search for new physics in events with same-sign dileptons and jets in pp collisions at $\sqrt{s}$ = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.6736, arXiv:1311.6736 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2014)163">10.1007/JHEP01(2014)163</a>, <a href="http://dx.doi.org/10.1007/JHEP01(2015)014">10.1007/JHEP01(2015)014</a>.<br/>
+JHEP 1401 (2014) 163, Erratum: JHEP 1501 (2015) 014.<br/>
+<br/>
+16) Measurement of the triple-differential cross section for photon+jets production in proton-proton collisions at $\sqrt{s}$=7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.6141 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP06(2014)009">10.1007/JHEP06(2014)009</a>.<br/>
+JHEP 1406 (2014) 009.<br/>
+<br/>
+17) Probing color coherence effects in pp collisions at $\sqrt{s}=7\,\text {TeV} $<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.5815 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-014-2901-8">10.1140/epjc/s10052-014-2901-8</a>.<br/>
+Eur.Phys.J. C74 (2014) no.6,  2901.<br/>
+<br/>
+18) Search for pair production of excited top quarks in the lepton + jets final state<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.5357 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP06(2014)125">10.1007/JHEP06(2014)125</a>.<br/>
+JHEP 1406 (2014) 125.<br/>
+<br/>
+19) Search for supersymmetry in pp collisions at $\sqrt{s}$=8 TeV in events with a single lepton, large jet multiplicity, and multiple b jets<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.4937 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.04.023">10.1016/j.physletb.2014.04.023</a>.<br/>
+Phys.Lett. B733 (2014) 328-353.<br/>
+<br/>
+20) Measurements of $t\bar{t}$ spin correlations and top-quark polarization using dilepton final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.3924 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.112.182001">10.1103/PhysRevLett.112.182001</a>.<br/>
+Phys.Rev.Lett. 112 (2014) no.18,  182001.<br/>
+<br/>
+21) Searches for light- and heavy-flavour three-jet resonances in pp collisions at $\sqrt{s} = 8$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1311.1799 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.01.049">10.1016/j.physletb.2014.01.049</a>.<br/>
+Phys.Lett. B730 (2014) 193-214.<br/>
+<br/>
+22) Measurement of higher-order harmonic azimuthal anisotropy in PbPb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.8651 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevC.89.044906">10.1103/PhysRevC.89.044906</a>.<br/>
+Phys.Rev. C89 (2014) no.4,  044906.<br/>
+<br/>
+23) Measurement of the differential and double-differential Drell-Yan cross sections in proton-proton collisions at $\sqrt{s} =$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.7291 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP12(2013)030">10.1007/JHEP12(2013)030</a>.<br/>
+JHEP 1312 (2013) 030.<br/>
+<br/>
+24) Jet and underlying event properties as a function of charged-particle multiplicity in proton–proton collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.4554 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2674-5">10.1140/epjc/s10052-013-2674-5</a>.<br/>
+Eur.Phys.J. C73 (2013) no.12,  2674.<br/>
+<br/>
+25) Search for the standard model Higgs boson produced in association with a W or a Z boson and decaying to bottom quarks<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.3687 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.89.012003">10.1103/PhysRevD.89.012003</a>.<br/>
+Phys.Rev. D89 (2014) no.1,  012003.<br/>
+<br/>
+26) Rapidity distributions in exclusive Z + jet and $\gamma$ + jet events in $pp$ collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.3082 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.88.112009">10.1103/PhysRevD.88.112009</a>.<br/>
+Phys.Rev. D88 (2013) no.11,  112009.<br/>
+<br/>
+27) Search for baryon number violation in top-quark decays<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.1618 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.02.033">10.1016/j.physletb.2014.02.033</a>.<br/>
+Phys.Lett. B731 (2014) 173-196.<br/>
+<br/>
+28) Measurement of the cross section and angular correlations for associated production of a Z boson with b hadrons in pp collisions at $\sqrt{s} =$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.1349 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP12(2013)039">10.1007/JHEP12(2013)039</a>.<br/>
+JHEP 1312 (2013) 039.<br/>
+<br/>
+29) Measurement of associated W + charm production in pp collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.1138 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP02(2014)013">10.1007/JHEP02(2014)013</a>.<br/>
+JHEP 1402 (2014) 013.<br/>
+<br/>
+30) Modification of jet shapes in PbPb collisions at $\sqrt {s_{NN}} = 2.76$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1310.0878 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.01.042">10.1016/j.physletb.2014.01.042</a>.<br/>
+Phys.Lett. B730 (2014) 243-263.<br/>
+<br/>
+31) Observation of a peaking structure in the $J/\psi \phi$ mass spectrum from $B^{\pm} \to J/\psi \phi K^{\pm}$ decays<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1309.6920 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2014.05.055">10.1016/j.physletb.2014.05.055</a>.<br/>
+Phys.Lett. B734 (2014) 261-281.<br/>
+<br/>
+32) Searches for new physics using the $t\bar{t}$ invariant mass distribution in pp collisions at $\sqrt{s}$=8  TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1309.2030 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.112.119903">10.1103/PhysRevLett.112.119903</a>, <a href="http://dx.doi.org/10.1103/PhysRevLett.111.211804">10.1103/PhysRevLett.111.211804</a>.<br/>
+Phys.Rev.Lett. 111 (2013) no.21,  211804, Erratum: Phys.Rev.Lett. 112 (2014) no.11,  119903.<br/>
+<br/>
+33) Measurement of the production cross section for $Z\gamma \to \nu\bar{\nu}\gamma$ in pp collisions at $\sqrt{s} =$ 7 TeV and limits on $ZZ\gamma$ and $Z\gamma\gamma$ triple gauge boson couplings<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1309.1117 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP10(2013)164">10.1007/JHEP10(2013)164</a>.<br/>
+JHEP 1310 (2013) 164.<br/>
+<br/>
+34) Search for a new bottomonium state decaying to $\Upsilon(1S)\pi^+\pi^-$ in pp collisions at $\sqrt{s}$ = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1309.0250 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.10.016">10.1016/j.physletb.2013.10.016</a>.<br/>
+Phys.Lett. B727 (2013) 57-76.<br/>
+<br/>
+35) Measurement of the $W\gamma$ and $Z\gamma$ inclusive cross sections in $pp$ collisions at $\sqrt s=7$  TeV and limits on anomalous triple gauge boson couplings<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1308.6832 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.89.092005">10.1103/PhysRevD.89.092005</a>.<br/>
+Phys.Rev. D89 (2014) no.9,  092005.<br/>
+<br/>
+36) Measurement of the W-boson helicity in top-quark decays from $t\bar{t}$ production in lepton+jets events in pp collisions at $\sqrt{s} =$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1308.3879 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP10(2013)167">10.1007/JHEP10(2013)167</a>.<br/>
+JHEP 1310 (2013) 167.<br/>
+<br/>
+37) Angular analysis and branching fraction measurement of the decay $B^0 \to K^{*0} \mu^+\mu^-$<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1308.3409 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.10.017">10.1016/j.physletb.2013.10.017</a>.<br/>
+Phys.Lett. B727 (2013) 77-100.<br/>
+<br/>
+38) Search for top-squark pair production in the single-lepton final state in pp collisions at $\sqrt{s}$ = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1308.1586 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2677-2">10.1140/epjc/s10052-013-2677-2</a>.<br/>
+Eur.Phys.J. C73 (2013) no.12,  2677.<br/>
+<br/>
+39) Measurement of the prompt $J/\psi$ and $\psi$(2S) polarizations in $pp$ collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1307.6070 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.10.055">10.1016/j.physletb.2013.10.055</a>.<br/>
+Phys.Lett. B727 (2013) 381-402.<br/>
+<br/>
+40) Search for a Higgs boson decaying into a Z and a photon in pp collisions at sqrt(s) = 7 and 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1307.5515 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.09.057">10.1016/j.physletb.2013.09.057</a>.<br/>
+Phys.Lett. B726 (2013) 587-609.<br/>
+<br/>
+41) Measurement of the B(s) to mu+ mu- branching fraction and search for B0 to mu+ mu- with the CMS Experiment<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1307.5025 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.111.101804">10.1103/PhysRevLett.111.101804</a>.<br/>
+Phys.Rev.Lett. 111 (2013) 101804.<br/>
+<br/>
+42) Measurement of the top-quark mass in all-jets $t\bar{t}$ events in pp collisions at $\sqrt{s}$=7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1307.4617 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-014-2758-x">10.1140/epjc/s10052-014-2758-x</a>.<br/>
+Eur.Phys.J. C74 (2014) no.4,  2758.<br/>
+<br/>
+43) Study of the production of charged pions, kaons, and protons in pPb collisions at $\sqrt{s_{NN}} =\  $ 5.02 $\,\text {TeV}$<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1307.3442 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-014-2847-x">10.1140/epjc/s10052-014-2847-x</a>.<br/>
+Eur.Phys.J. C74 (2014) no.6,  2847.<br/>
+<br/>
+44) The performance of the CMS muon detector in proton-proton collisions at sqrt(s) = 7 TeV at the LHC<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1306.6905 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/8/11/P11002">10.1088/1748-0221/8/11/P11002</a>.<br/>
+JINST 8 (2013) P11002.<br/>
+<br/>
+45) Search for top squarks in $R$-parity-violating supersymmetry using three or more leptons and b-tagged jets<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1306.6643 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.111.221801">10.1103/PhysRevLett.111.221801</a>.<br/>
+Phys.Rev.Lett. 111 (2013) no.22,  221801.<br/>
+<br/>
+46) Energy Calibration and Resolution of the CMS Electromagnetic Calorimeter in $pp$ Collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1306.2016 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/8/09/P09009">10.1088/1748-0221/8/09/P09009</a>.<br/>
+JINST 8 (2013) P09009, JINST 8 (2013) 9009.<br/>
+<br/>
+47) Measurement of the $W^+W^-$ Cross section in $pp$ Collisions at $\sqrt{s} = 7$ TeV and Limits on Anomalous $WW\gamma$ and $WWZ$ couplings<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1306.1126 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2610-8">10.1140/epjc/s10052-013-2610-8</a>.<br/>
+Eur.Phys.J. C73 (2013) no.10,  2610.<br/>
+<br/>
+48) Measurement of the hadronic activity in events with a Z and two jets and extraction of the cross section for the electroweak production of a Z with two jets in pp collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1305.7389 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP10(2013)062">10.1007/JHEP10(2013)062</a>.<br/>
+JHEP 1310 (2013) 062.<br/>
+<br/>
+49) Measurement of neutral strange particle production in the underlying event in proton-proton collisions at sqrt(s) = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1305.6016 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.88.052001">10.1103/PhysRevD.88.052001</a>.<br/>
+Phys.Rev. D88 (2013) 052001.<br/>
+<br/>
+50) Study of exclusive two-photon production of $W^+W^-$ in $pp$ collisions at $\sqrt{s} = 7$ TeV and constraints on anomalous quartic gauge couplings<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1305.5596 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP07(2013)116">10.1007/JHEP07(2013)116</a>.<br/>
+JHEP 1307 (2013) 116.<br/>
+<br/>
+51) Search for gluino mediated bottom- and top-squark production in multijet final states in pp collisions at 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1305.2390 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.06.058">10.1016/j.physletb.2013.06.058</a>.<br/>
+Phys.Lett. B725 (2013) 243-270.<br/>
+<br/>
+52) Multiplicity and transverse momentum dependence of two- and four-particle correlations in pPb and PbPb collisions<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1305.0609 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.06.028">10.1016/j.physletb.2013.06.028</a>.<br/>
+Phys.Lett. B724 (2013) 213-240.<br/>
+<br/>
+53) Searches for long-lived charged particles in pp collisions at $\sqrt{s}$=7 and 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1305.0491 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP07(2013)122">10.1007/JHEP07(2013)122</a>.<br/>
+JHEP 1307 (2013) 122.<br/>
+<br/>
+54) Measurement of the ratio of the inclusive 3-jet cross section to the inclusive 2-jet cross section in pp collisions at $\sqrt{s}$ = 7 TeV and first determination of the strong coupling constant in the TeV range<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1304.7498 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2604-6">10.1140/epjc/s10052-013-2604-6</a>.<br/>
+Eur.Phys.J. C73 (2013) no.10,  2604.<br/>
+<br/>
+55) Measurement of the $\Lambda_{b}^0$ lifetime in pp collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1304.7495 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP07(2013)163">10.1007/JHEP07(2013)163</a>.<br/>
+JHEP 1307 (2013) 163.<br/>
+<br/>
+56) Measurement of masses in the $t \bar{t}$ system by kinematic endpoints in pp collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1304.5783 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2494-7">10.1140/epjc/s10052-013-2494-7</a>.<br/>
+Eur.Phys.J. C73 (2013) 2494.<br/>
+<br/>
+57) Search for a standard-model-like Higgs boson with a mass in the range 145 to 1000 GeV at the LHC<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1304.0213 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2469-8">10.1140/epjc/s10052-013-2469-8</a>.<br/>
+Eur.Phys.J. C73 (2013) 2469.<br/>
+<br/>
+58) Measurement of the $\Upsilon(1S), \Upsilon(2S)$, and $\Upsilon(3S)$ cross sections in pp collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.5900 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.10.033">10.1016/j.physletb.2013.10.033</a>.<br/>
+Phys.Lett. B727 (2013) 101-125.<br/>
+<br/>
+59) Search for microscopic black holes in pp collisions at sqrt(s) = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.5338 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP07(2013)178">10.1007/JHEP07(2013)178</a>.<br/>
+JHEP 1307 (2013) 178.<br/>
+<br/>
+60) Studies of jet mass in dijet and W/Z + jet events<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.4811 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP05(2013)090">10.1007/JHEP05(2013)090</a>.<br/>
+JHEP 1305 (2013) 090.<br/>
+<br/>
+61) Observation of a new boson with mass near 125 GeV in pp collisions at $\sqrt{s}$ = 7 and 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.4571 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP06(2013)081">10.1007/JHEP06(2013)081</a>.<br/>
+JHEP 1306 (2013) 081.<br/>
+<br/>
+62) Measurement of associated production of vector bosons and top quark-antiquark pairs at sqrt(s) = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.3239 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.172002">10.1103/PhysRevLett.110.172002</a>.<br/>
+Phys.Rev.Lett. 110 (2013) 172002.<br/>
+<br/>
+63) Search for supersymmetry in hadronic final states with missing transverse energy using the variables $\alpha_T$ and b-quark multiplicity in pp collisions at $\sqrt s=8$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.2985 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2568-6">10.1140/epjc/s10052-013-2568-6</a>.<br/>
+Eur.Phys.J. C73 (2013) no.9,  2568.<br/>
+<br/>
+64) Search for the standard model Higgs boson produced in association with a top-quark pair in pp collisions at the LHC<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1303.0763 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP05(2013)145">10.1007/JHEP05(2013)145</a>.<br/>
+JHEP 1305 (2013) 145.<br/>
+<br/>
+65) Search for narrow resonances using the dijet mass spectrum in pp collisions at $\sqrt{s}$=8  TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.4794 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.114015">10.1103/PhysRevD.87.114015</a>.<br/>
+Phys.Rev. D87 (2013) no.11,  114015.<br/>
+<br/>
+66) Measurement of the X(3872) production cross section via decays to J/psi pi pi in pp collisions at sqrt(s) = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.3968 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP04(2013)154">10.1007/JHEP04(2013)154</a>.<br/>
+JHEP 1304 (2013) 154.<br/>
+<br/>
+67) Search for a Higgs boson decaying into a b-quark pair and produced in association with b quarks in proton–proton collisions at 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.2892 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.04.017">10.1016/j.physletb.2013.04.017</a>.<br/>
+Phys.Lett. B722 (2013) 207-232.<br/>
+<br/>
+68) Search for new physics in final states with a lepton and missing transverse energy in pp collisions at the LHC<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.2812 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.072005">10.1103/PhysRevD.87.072005</a>.<br/>
+Phys.Rev. D87 (2013) no.7,  072005.<br/>
+<br/>
+69) Study of the underlying event at forward rapidity in pp collisions at $\sqrt{s}$ = 0.9, 2.76, and 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.2394 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP04(2013)072">10.1007/JHEP04(2013)072</a>.<br/>
+JHEP 1304 (2013) 072.<br/>
+<br/>
+70) Searches for Higgs bosons in pp collisions at sqrt(s) = 7 and 8 TeV in the context of four-generation and fermiophobic models<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.1764 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.06.043">10.1016/j.physletb.2013.06.043</a>.<br/>
+Phys.Lett. B725 (2013) 36-59.<br/>
+<br/>
+71) Search for pair-produced dijet resonances in four-jet final states in pp collisions at $\sqrt{s}$=7  TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.0531 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.141802">10.1103/PhysRevLett.110.141802</a>.<br/>
+Phys.Rev.Lett. 110 (2013) no.14,  141802.<br/>
+<br/>
+72) Measurement of the $t\bar{t}$ production cross section in the all-jet final state in pp collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1302.0508 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP05(2013)065">10.1007/JHEP05(2013)065</a>.<br/>
+JHEP 1305 (2013) 065.<br/>
+<br/>
+73) Measurement of the top-antitop production cross section in the tau+jets channel in pp collisions at sqrt(s) = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.5755 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2386-x">10.1140/epjc/s10052-013-2386-x</a>.<br/>
+Eur.Phys.J. C73 (2013) no.4,  2386.<br/>
+<br/>
+74) Search for contact interactions using the inclusive jet $p_T$ spectrum in $pp$ collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.5023 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.052017">10.1103/PhysRevD.87.052017</a>.<br/>
+Phys.Rev. D87 (2013) no.5,  052017.<br/>
+<br/>
+75) Measurement of W+W- and ZZ production cross sections in pp collisions at sqrt(s) = 8 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.4698 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.03.027">10.1016/j.physletb.2013.03.027</a>.<br/>
+Phys.Lett. B721 (2013) 190-211.<br/>
+<br/>
+76) Search for physics beyond the standard model in events with $\tau$ leptons, jets, and large transverse momentum imbalance in pp collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.3792 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2493-8">10.1140/epjc/s10052-013-2493-8</a>.<br/>
+Eur.Phys.J. C73 (2013) 2493.<br/>
+<br/>
+77) Interpretation of Searches for Supersymmetry with simplified Models<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.2175 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.88.052017">10.1103/PhysRevD.88.052017</a>.<br/>
+Phys.Rev. D88 (2013) no.5,  052017.<br/>
+<br/>
+78) Event shapes and azimuthal correlations in $Z$ + jets events in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.1646 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.04.025">10.1016/j.physletb.2013.04.025</a>.<br/>
+Phys.Lett. B722 (2013) 238-261.<br/>
+<br/>
+79) Search for supersymmetry in events with opposite-sign dileptons and missing transverse energy using an artificial neural network<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1301.0916 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.072001">10.1103/PhysRevD.87.072001</a>.<br/>
+Phys.Rev. D87 (2013) no.7,  072001.<br/>
+<br/>
+80) Search for supersymmetry in $pp$ collisions at $\sqrt{s}=7$ TeV in events with a single lepton, jets, and missing transverse momentum<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6428 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2404-z">10.1140/epjc/s10052-013-2404-z</a>.<br/>
+Eur.Phys.J. C73 (2013) 2404.<br/>
+<br/>
+81) Study of the Mass and Spin-Parity of the Higgs Boson Candidate Via Its Decays to Z Boson Pairs<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6639 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.081803">10.1103/PhysRevLett.110.081803</a>.<br/>
+Phys.Rev.Lett. 110 (2013) no.8,  081803.<br/>
+<br/>
+82) Measurements of differential jet cross sections in proton-proton collisions at $\sqrt{s}=7$ TeV with the CMS detector<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6660 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.112002">10.1103/PhysRevD.87.112002</a>, <a href="http://dx.doi.org/10.1103/PhysRevD.87.119902">10.1103/PhysRevD.87.119902</a>.<br/>
+Phys.Rev. D87 (2013) no.11,  112002, Erratum: Phys.Rev. D87 (2013) no.11,  119902.<br/>
+<br/>
+83) Measurement of the $t\bar{t}$ production cross section in $pp$ collisions at $\sqrt{s}=7$ TeV with lepton + jets final states<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6682 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.02.021">10.1016/j.physletb.2013.02.021</a>.<br/>
+Phys.Lett. B720 (2013) 83-104.<br/>
+<br/>
+84) Inclusive search for supersymmetry using the razor variables in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6961 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.111.081802">10.1103/PhysRevLett.111.081802</a>.<br/>
+Phys.Rev.Lett. 111 (2013) no.8,  081802.<br/>
+<br/>
+85) Search for new physics in events with same-sign dileptons and $b$ jets in $pp$ collisions at $\sqrt{s}=8$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6194 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP07(2013)041">10.1007/JHEP07(2013)041</a>, <a href="http://dx.doi.org/10.1007/JHEP03(2013)037">10.1007/JHEP03(2013)037</a>.<br/>
+JHEP 1303 (2013) 037, Erratum: JHEP 1307 (2013) 041.<br/>
+<br/>
+86) Search for heavy narrow dilepton resonances in $pp$ collisions at $\sqrt{s}=7$ TeV and $\sqrt{s}=8$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.6175 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.02.003">10.1016/j.physletb.2013.02.003</a>.<br/>
+Phys.Lett. B720 (2013) 63-82.<br/>
+<br/>
+87) Search for contact interactions in $\mu^+\mu^-$ events in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.4563 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.032001">10.1103/PhysRevD.87.032001</a>.<br/>
+Phys.Rev. D87 (2013) no.3,  032001.<br/>
+<br/>
+88) Search for heavy resonances in the W/Z-tagged dijet mass spectrum in pp collisions at 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.1910 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.05.040">10.1016/j.physletb.2013.05.040</a>.<br/>
+Phys.Lett. B723 (2013) 280-301.<br/>
+<br/>
+89) Search for long-lived particles decaying to photons and missing energy in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1212.1838 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.04.027">10.1016/j.physletb.2013.04.027</a>.<br/>
+Phys.Lett. B722 (2013) 273-294.<br/>
+<br/>
+90) Search for exotic resonances decaying into $WZ/ZZ$ in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.5779 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP02(2013)036">10.1007/JHEP02(2013)036</a>.<br/>
+JHEP 1302 (2013) 036.<br/>
+<br/>
+91) Measurement of the $ZZ$ production cross section and search for anomalous couplings in 2 l2l ' final states in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.4890 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2013)063">10.1007/JHEP01(2013)063</a>.<br/>
+JHEP 1301 (2013) 063.<br/>
+<br/>
+92) Search for new physics in events with photons, jets, and missing transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.4784 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP03(2013)111">10.1007/JHEP03(2013)111</a>.<br/>
+JHEP 1303 (2013) 111.<br/>
+<br/>
+93) Identification of b-quark jets with the CMS experiment<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.4462 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/8/04/P04013">10.1088/1748-0221/8/04/P04013</a>.<br/>
+JINST 8 (2013) P04013.<br/>
+<br/>
+94) Search for $Z$ ' resonances decaying to $t\bar{t}$ in dilepton+jets final states in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.3338 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.072002">10.1103/PhysRevD.87.072002</a>.<br/>
+Phys.Rev. D87 (2013) no.7,  072002.<br/>
+<br/>
+95) Search for supersymmetry in final states with a single lepton, $b$-quark jets, and missing transverse energy in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.3143 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.052006">10.1103/PhysRevD.87.052006</a>.<br/>
+Phys.Rev. D87 (2013) no.5,  052006.<br/>
+<br/>
+96) Search in leptonic channels for heavy resonances decaying to long-lived neutral particles<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.2472 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP02(2013)085">10.1007/JHEP02(2013)085</a>.<br/>
+JHEP 1302 (2013) 085.<br/>
+<br/>
+97) Measurement of differential top-quark pair production cross sections in $pp$ colisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1211.2220 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2339-4">10.1140/epjc/s10052-013-2339-4</a>.<br/>
+Eur.Phys.J. C73 (2013) no.3,  2339.<br/>
+<br/>
+98) Search for supersymmetry in final states with missing transverse energy and 0, 1, 2, or at least 3 b-quark jets in 7 TeV pp collisions using the variable alphaT<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.8115 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2013)077">10.1007/JHEP01(2013)077</a>.<br/>
+JHEP 1301 (2013) 077.<br/>
+<br/>
+99) Search for a non-standard-model Higgs boson decaying to a pair of new light bosons in four-muon final states<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.7619 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.09.009">10.1016/j.physletb.2013.09.009</a>.<br/>
+Phys.Lett. B726 (2013) 564-586.<br/>
+<br/>
+100) Measurement of the sum of $W W$ and $WZ$ production with $W+$dijet events in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.7544 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-013-2283-3">10.1140/epjc/s10052-013-2283-3</a>.<br/>
+Eur.Phys.J. C73 (2013) no.2,  2283.<br/>
+<br/>
+101) Search for heavy quarks decaying into a top quark and a $W$ or $Z$ boson using lepton + jets events in $pp$ collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.7471 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2013)154">10.1007/JHEP01(2013)154</a>.<br/>
+JHEP 1301 (2013) 154.<br/>
+<br/>
+102) Measurement of the inelastic proton-proton cross section at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.6718 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.03.024">10.1016/j.physletb.2013.03.024</a>.<br/>
+Phys.Lett. B722 (2013) 5-27.<br/>
+<br/>
+103) Search for pair production of third-generation leptoquarks and top squarks in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.5629 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.081801">10.1103/PhysRevLett.110.081801</a>.<br/>
+Phys.Rev.Lett. 110 (2013) no.8,  081801.<br/>
+<br/>
+104) Observation of long-range near-side angular correlations in proton-lead collisions at the LHC<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.5482 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.11.025">10.1016/j.physletb.2012.11.025</a>.<br/>
+Phys.Lett. B718 (2013) 795-814.<br/>
+<br/>
+105) Search for excited leptons in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.2422 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.02.031">10.1016/j.physletb.2013.02.031</a>.<br/>
+Phys.Lett. B720 (2013) 309-329.<br/>
+<br/>
+106) Search for narrow resonances and quantum black holes in inclusive and $b$-tagged dijet mass spectra from $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.2387 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2013)013">10.1007/JHEP01(2013)013</a>.<br/>
+JHEP 1301 (2013) 013.<br/>
+<br/>
+107) Search for fractionally charged particles in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.2311 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.092008">10.1103/PhysRevD.87.092008</a>.<br/>
+Phys.Rev. D87 (2013) no.9,  092008.<br/>
+<br/>
+108) Search for supersymmetry in events with photons and low missing transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.2052 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.12.055">10.1016/j.physletb.2012.12.055</a>.<br/>
+Phys.Lett. B719 (2013) 42-61.<br/>
+<br/>
+109) Search for anomalous production of highly boosted $Z$ bosons decaying to $\mu^+ \mu^-$ in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1210.0867 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2013.03.037">10.1016/j.physletb.2013.03.037</a>.<br/>
+Phys.Lett. B722 (2013) 28-47.<br/>
+<br/>
+110) Search for a narrow spin-2 resonance decaying to a pair of Z vector bosons in the semileptonic final state<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1209.3807 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.11.063">10.1016/j.physletb.2012.11.063</a>.<br/>
+Phys.Lett. B718 (2013) 1208-1228.<br/>
+<br/>
+111) Evidence for associated production of a single top quark and W boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1209.3489 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.022003">10.1103/PhysRevLett.110.022003</a>.<br/>
+Phys.Rev.Lett. 110 (2013) 022003.<br/>
+<br/>
+112) Measurement of the $Y(1S), Y(2S)$ and $Y(3S)$ polarizations in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1209.2922 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.081802">10.1103/PhysRevLett.110.081802</a>.<br/>
+Phys.Rev.Lett. 110 (2013) no.8,  081802.<br/>
+<br/>
+113) Observation of a diffractive contribution to dijet production in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1209.1805 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.87.012006">10.1103/PhysRevD.87.012006</a>.<br/>
+Phys.Rev. D87 (2013) no.1,  012006.<br/>
+<br/>
+114) Measurement of the azimuthal anisotropy of neutral pions in PbPb collisions at $\sqrt{s_{NN}}=2.76$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1208.2470 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.110.042301">10.1103/PhysRevLett.110.042301</a>.<br/>
+Phys.Rev.Lett. 110 (2013) no.4,  042301.<br/>
+<br/>
+115) Search for flavor changing neutral currents in top quark decays in pp collisions at 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1208.0957 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.12.045">10.1016/j.physletb.2012.12.045</a>.<br/>
+Phys.Lett. B718 (2013) 1252-1272.<br/>
+<br/>
+116) Search for a $W$ ' boson decaying to a bottom quark and a top quark in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1208.0956 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.12.008">10.1016/j.physletb.2012.12.008</a>.<br/>
+Phys.Lett. B718 (2013) 1229-1251.<br/>
+<br/>
+117) Search for heavy Majorana neutrinos in $\mu^{\pm}\mu^{\pm} +$ jets and $e^{\pm}e^{\pm} +$ jets events in pp collisions at $\sqrt{s} =$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1207.6079 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.09.012">10.1016/j.physletb.2012.09.012</a>.<br/>
+Phys.Lett. B717 (2012) 109-128.<br/>
+<br/>
+118) Forward-backward asymmetry of Drell-Yan lepton pairs in $pp$ collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1207.3973 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.10.082">10.1016/j.physletb.2012.10.082</a>.<br/>
+Phys.Lett. B718 (2013) 752-772.<br/>
+<br/>
+119) Inclusive and differential measurements of the $t \bar{t}$ charge asymmetry in proton-proton collisions at $\sqrt{s} =$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1207.0065 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.09.028">10.1016/j.physletb.2012.09.028</a>.<br/>
+Phys.Lett. B717 (2012) 129-150.<br/>
+<br/>
+120) Search for new physics in events with opposite-sign leptons, jets, and missing transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1206.3949 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.11.036">10.1016/j.physletb.2012.11.036</a>.<br/>
+Phys.Lett. B718 (2013) 815-840.<br/>
+<br/>
+121) Search for charge-asymmetric production of W$′$ bosons in $t\bar{t} +$ jet events from pp collisions at $\sqrt{s} =$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1206.3921 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.09.048">10.1016/j.physletb.2012.09.048</a>.<br/>
+Phys.Lett. B717 (2012) 351-370.<br/>
+<br/>
+122) Search for narrow resonances in dilepton mass spectra in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1206.1849 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.06.051">10.1016/j.physletb.2012.06.051</a>.<br/>
+Phys.Lett. B714 (2012) 158-179.<br/>
+<br/>
+123) Search for high-mass resonances decaying into τ -lepton pairs in pp collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1206.1725 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.07.062">10.1016/j.physletb.2012.07.062</a>.<br/>
+Phys.Lett. B716 (2012) 82-102.<br/>
+<br/>
+124) Study of $W$ boson production in PbPb and $pp$ collisions at $\sqrt{s_{NN}}=2.76$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1205.6334 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.07.025">10.1016/j.physletb.2012.07.025</a>.<br/>
+Phys.Lett. B715 (2012) 66-87.<br/>
+<br/>
+125) Measurement of the $\Lambda_b$ cross section and the $_{\bar{\Lambda}_b}$ to $\Lambda_b$ ratio with $J/\Psi \Lambda$ decays in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1205.0594 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.05.063">10.1016/j.physletb.2012.05.063</a>.<br/>
+Phys.Lett. B714 (2012) 136-157.<br/>
+<br/>
+126) Search for heavy long-lived charged particles in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1205.0272 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.06.023">10.1016/j.physletb.2012.06.023</a>.<br/>
+Phys.Lett. B713 (2012) 408-433.<br/>
+<br/>
+127) Studies of jet quenching using isolated-photon+jet correlations in PbPb and $pp$ collisions at $\sqrt{s_{NN}}=2.76$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1205.0206 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.11.003">10.1016/j.physletb.2012.11.003</a>.<br/>
+Phys.Lett. B718 (2013) 773-794.<br/>
+<br/>
+128) Search for physics beyond the standard model in events with a $Z$ boson, jets, and missing transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1204.3774 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.08.026">10.1016/j.physletb.2012.08.026</a>.<br/>
+Phys.Lett. B716 (2012) 260-284.<br/>
+<br/>
+129) Measurement of the elliptic anisotropy of charged particles produced in PbPb collisions at $\sqrt{s}_{NN}$=2.76 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1204.1409 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevC.87.014902">10.1103/PhysRevC.87.014902</a>.<br/>
+Phys.Rev. C87 (2013) no.1,  014902.<br/>
+<br/>
+130) Search for heavy, top-like quark pair production in the dilepton final state in $pp$ collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1203.5410 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.07.059">10.1016/j.physletb.2012.07.059</a>.<br/>
+Phys.Lett. B716 (2012) 103-121.<br/>
+<br/>
+131) Jet momentum dependence of jet quenching in PbPb collisions at $\sqrt{s_{NN}}=2.76$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.5022 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.04.058">10.1016/j.physletb.2012.04.058</a>.<br/>
+Phys.Lett. B712 (2012) 176-197.<br/>
+<br/>
+132) Search for the standard model Higgs boson decaying to bottom quarks in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.4195 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.02.085">10.1016/j.physletb.2012.02.085</a>.<br/>
+Phys.Lett. B710 (2012) 284-306.<br/>
+<br/>
+133) Search for neutral Higgs bosons decaying to tau pairs in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.4083 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.05.028">10.1016/j.physletb.2012.05.028</a>.<br/>
+Phys.Lett. B713 (2012) 68-90.<br/>
+<br/>
+134) Search for large extra dimensions in dimuon and dielectron events in pp collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.3827 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.03.029">10.1016/j.physletb.2012.03.029</a>.<br/>
+Phys.Lett. B711 (2012) 15-34.<br/>
+<br/>
+135) Search for the standard model Higgs boson decaying to $W^+W^−$ in the fully leptonic final state in pp collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.1489 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.02.076">10.1016/j.physletb.2012.02.076</a>.<br/>
+Phys.Lett. B710 (2012) 91-113.<br/>
+<br/>
+136) Combined results of searches for the standard model Higgs boson in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.1488 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.02.064">10.1016/j.physletb.2012.02.064</a>.<br/>
+Phys.Lett. B710 (2012) 26-48.<br/>
+<br/>
+137) Search for the standard model Higgs boson decaying into two photons in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1202.1487 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.03.003">10.1016/j.physletb.2012.03.003</a>.<br/>
+Phys.Lett. B710 (2012) 403-425.<br/>
+<br/>
+138) Measurement of isolated photon production in $pp$ and PbPb collisions at $\sqrt{s_{NN}}=2.76$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1201.3093 [nucl-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.02.077">10.1016/j.physletb.2012.02.077</a>.<br/>
+Phys.Lett. B710 (2012) 256-277.<br/>
+<br/>
+139) Measurement of the charge asymmetry in top-quark pair production in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1112.5100 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2012.01.078">10.1016/j.physletb.2012.01.078</a>.<br/>
+Phys.Lett. B709 (2012) 28-49.<br/>
+<br/>
+140) Search for Resonances in the Dijet Mass Spectrum from 7 TeV pp Collisions at CMS<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1107.4771 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.09.015">10.1016/j.physletb.2011.09.015</a>.<br/>
+Phys.Lett. B704 (2011) 123-142.<br/>
+<br/>
+141) A search for excited leptons in $pp$ Collisions at $\sqrt{s}=$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1107.1773 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.09.021">10.1016/j.physletb.2011.09.021</a>.<br/>
+Phys.Lett. B704 (2011) 143-162.<br/>
+<br/>
+142) Search for physics beyond the standard model using multilepton signatures in $pp$ collisions at $\sqrt{s}=$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1106.0933 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.09.047">10.1016/j.physletb.2011.09.047</a>.<br/>
+Phys.Lett. B704 (2011) 411-433.<br/>
+<br/>
+143) Measurement of the ratio of the 3-jet to 2-jet cross sections in $pp$ collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1106.0647 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.07.067">10.1016/j.physletb.2011.07.067</a>.<br/>
+Phys.Lett. B702 (2011) 336-354.<br/>
+<br/>
+144) Search for First Generation Scalar Leptoquarks in the e$\nu$jj channel in $pp$ collisions at $\sqrt{s}=$ 7 TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1105.5237 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.07.089">10.1016/j.physletb.2011.07.089</a>.<br/>
+Phys.Lett. B703 (2011) 246-266.<br/>
+<br/>
+145) Measurement of $W\gamma$ and $Z\gamma$ production in $pp$ collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1105.2758 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.06.034">10.1016/j.physletb.2011.06.034</a>.<br/>
+Phys.Lett. B701 (2011) 535-555.<br/>
+<br/>
+146) Measurement of the differential dijet production cross section in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1104.1693 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.05.027">10.1016/j.physletb.2011.05.027</a>.<br/>
+Phys.Lett. B700 (2011) 187-206.<br/>
+<br/>
+147) Search for a $W^\prime$ boson decaying to a muon and a neutrino in $pp$ collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1103.0030 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.05.048">10.1016/j.physletb.2011.05.048</a>.<br/>
+Phys.Lett. B701 (2011) 160-179.<br/>
+<br/>
+148) Measurement of $W^+ W^-$ production and search for the Higgs boson in pp collisions at $\sqrt s=7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1102.5429 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.03.056">10.1016/j.physletb.2011.03.056</a>.<br/>
+Phys.Lett. B699 (2011) 25-47.<br/>
+<br/>
+149) Search for a Heavy Bottom-like Quark in $pp$ Collisions at $\sqrt{s} = 7$ TeV<br/>
+By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
+arXiv:1102.4746 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.05.074">10.1016/j.physletb.2011.05.074</a>.<br/>
+Phys.Lett. B701 (2011) 204-223.<br/>
+<br/>
+150) First Measurement of Hadronic Event Shapes in $pp$ Collisions at $\sqrt {s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1102.0068 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.03.060">10.1016/j.physletb.2011.03.060</a>.<br/>
+Phys.Lett. B699 (2011) 48-67.<br/>
+<br/>
+151) Search for Microscopic Black Hole Signatures at the Large Hadron Collider<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.3375 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.02.032">10.1016/j.physletb.2011.02.032</a>.<br/>
+Phys.Lett. B697 (2011) 434-453.<br/>
+<br/>
+

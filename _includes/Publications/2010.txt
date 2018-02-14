@@ -1,0 +1,259 @@
+1) Search for a heavy gauge boson $W$ ' in the final state with an electron and large missing transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.5945 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.02.048">10.1016/j.physletb.2011.02.048</a>.<br/>
+Phys.Lett. B698 (2011) 21-39.<br/>
+<br/>
+2) Upsilon Production Cross-Section in pp Collisions at $sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.5545 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevD.83.112004">10.1103/PhysRevD.83.112004</a>.<br/>
+Phys.Rev. D83 (2011) 112004.<br/>
+<br/>
+3) Search for Pair Production of First-Generation Scalar Leptoquarks in $pp$ Collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.4031 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.106.201802">10.1103/PhysRevLett.106.201802</a>.<br/>
+Phys.Rev.Lett. 106 (2011) 201802.<br/>
+<br/>
+4) Search for Pair Production of Second-Generation Scalar Leptoquarks in $pp$ Collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.4033 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.106.201803">10.1103/PhysRevLett.106.201803</a>.<br/>
+Phys.Rev.Lett. 106 (2011) 201803.<br/>
+<br/>
+5) Search for Microscopic Black Hole Signatures at the Large Hadron Collider<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.3375 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2011.02.032">10.1016/j.physletb.2011.02.032</a>.<br/>
+Phys.Lett. B697 (2011) 434-453.<br/>
+<br/>
+6) Measurements of Inclusive $W$ and $Z$ Cross Sections in $pp$ Collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.2466 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2011)080">10.1007/JHEP01(2011)080</a>.<br/>
+JHEP 1101 (2011) 080.<br/>
+<br/>
+7) Measurement of the Isolated Prompt Photon Production Cross Section in $pp$ Collisions at $\sqrt{s} = 7$~TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1012.0799 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.106.082001">10.1103/PhysRevLett.106.082001</a>.<br/>
+Phys.Rev.Lett. 106 (2011) 082001.<br/>
+<br/>
+8) Charged particle multiplicities in $pp$ interactions at $\sqrt{s}=0.9$, 2.36, and 7 TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1011.5531 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP01(2011)079">10.1007/JHEP01(2011)079</a>.<br/>
+JHEP 1101 (2011) 079.<br/>
+<br/>
+9) Search for Stopped Gluinos in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1011.5861 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.106.011801">10.1103/PhysRevLett.106.011801</a>.<br/>
+Phys.Rev.Lett. 106 (2011) 011801.<br/>
+<br/>
+10) Prompt and non-prompt $J/\psi$ production in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1011.4193 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-011-1575-8">10.1140/epjc/s10052-011-1575-8</a>.<br/>
+Eur.Phys.J. C71 (2011) 1575.<br/>
+<br/>
+11) First Measurement of the Cross Section for Top-Quark Pair Production in Proton-Proton Collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1010.5994 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2010.11.058">10.1016/j.physletb.2010.11.058</a>.<br/>
+Phys.Lett. B695 (2011) 424-443.<br/>
+<br/>
+12) Search for Quark Compositeness with the Dijet Centrality Ratio in $pp$ Collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1010.4439 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.105.262001">10.1103/PhysRevLett.105.262001</a>.<br/>
+Phys.Rev.Lett. 105 (2010) 262001.<br/>
+<br/>
+13) Search for Dijet Resonances in 7 TeV pp Collisions at CMS<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1010.0203 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.105.211801">10.1103/PhysRevLett.105.211801</a>, <a href="http://dx.doi.org/10.1103/PhysRevLett.106.029902">10.1103/PhysRevLett.106.029902</a>.<br/>
+Phys.Rev.Lett. 105 (2010) 211801.<br/>
+<br/>
+14) Observation of Long-Range Near-Side Angular Correlations in Proton-Proton Collisions at the LHC<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1009.4122 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP09(2010)091">10.1007/JHEP09(2010)091</a>.<br/>
+JHEP 1009 (2010) 091.<br/>
+<br/>
+15) CMS Tracking Performance Results from early LHC Operation<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1007.1988 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-010-1491-3">10.1140/epjc/s10052-010-1491-3</a>.<br/>
+Eur.Phys.J. C70 (2010) 1165-1192.<br/>
+<br/>
+16) First Measurement of the Underlying Event Activity at the LHC with $\sqrt{s} = 0.9$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1006.2083 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1140/epjc/s10052-010-1453-9">10.1140/epjc/s10052-010-1453-9</a>.<br/>
+Eur.Phys.J. C70 (2010) 555-572.<br/>
+<br/>
+17) Measurement of the charge ratio of atmospheric muons with the CMS detector<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1005.5332 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1016/j.physletb.2010.07.033">10.1016/j.physletb.2010.07.033</a>.<br/>
+Phys.Lett. B692 (2010) 83-104.<br/>
+<br/>
+18) First Measurement of Bose-Einstein Correlations in proton-proton Collisions at $\sqrt{s}$ =0.9 and 2.36 TeV at the LHC<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1005.3294 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.105.032001">10.1103/PhysRevLett.105.032001</a>.<br/>
+Phys.Rev.Lett. 105 (2010) 032001.<br/>
+<br/>
+19) Transverse-momentum and pseudorapidity distributions of charged hadrons in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1005.3299 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1103/PhysRevLett.105.022002">10.1103/PhysRevLett.105.022002</a>.<br/>
+Phys.Rev.Lett. 105 (2010) 022002.<br/>
+<br/>
+20) Transverse momentum and pseudorapidity distributions of charged hadrons in pp collisions at $\sqrt{s} = 0.9$ and 2.36 TeV<br/>
+By CMS Collaboration (Vardan Khachatryan et al.).<br/>
+arXiv:1002.0621 [hep-ex].<br/>
+<a href="http://dx.doi.org/10.1007/JHEP02(2010)041">10.1007/JHEP02(2010)041</a>.<br/>
+JHEP 1002 (2010) 041.<br/>
+<br/>
+21) Commissioning and Performance of the CMS Pixel Tracker with Cosmic Ray Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.5434 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03007">10.1088/1748-0221/5/03/T03007</a>.<br/>
+JINST 5 (2010) T03007.<br/>
+<br/>
+22) Performance of the CMS Level-1 Trigger during Commissioning with Cosmic Ray Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.5422 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03002">10.1088/1748-0221/5/03/T03002</a>.<br/>
+JINST 5 (2010) T03002.<br/>
+<br/>
+23) Measurement of the Muon Stopping Power in Lead Tungstate<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.5397 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/P03007">10.1088/1748-0221/5/03/P03007</a>.<br/>
+JINST 5 (2010) P03007.<br/>
+<br/>
+24) Commissioning and Performance of the CMS Silicon Strip Tracker with Cosmic Ray Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4996 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03008">10.1088/1748-0221/5/03/T03008</a>.<br/>
+JINST 5 (2010) T03008.<br/>
+<br/>
+25) Performance of CMS Muon Reconstruction in Cosmic-Ray Events<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4994 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03022">10.1088/1748-0221/5/03/T03022</a>.<br/>
+JINST 5 (2010) T03022.<br/>
+<br/>
+26) Performance of the CMS Cathode Strip Chambers with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4992 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03018">10.1088/1748-0221/5/03/T03018</a>.<br/>
+JINST 5 (2010) T03018.<br/>
+<br/>
+27) Performance of the CMS Hadron Calorimeter with Cosmic Ray Muons and LHC Beam Data<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4991 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03012">10.1088/1748-0221/5/03/T03012</a>.<br/>
+JINST 5 (2010) T03012.<br/>
+<br/>
+28) Fine Synchronization of the CMS Muon Drift-Tube Local Trigger using Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4904 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03004">10.1088/1748-0221/5/03/T03004</a>.<br/>
+JINST 5 (2010) T03004.<br/>
+<br/>
+29) Calibration of the CMS Drift Tube Chambers and Measurement of the Drift Velocity with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4895 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03016">10.1088/1748-0221/5/03/T03016</a>.<br/>
+JINST 5 (2010) T03016.<br/>
+<br/>
+30) Performance of the CMS Drift-Tube Local Trigger with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4893 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03003">10.1088/1748-0221/5/03/T03003</a>.<br/>
+JINST 5 (2010) T03003.<br/>
+<br/>
+31) Commissioning of the CMS High-Level Trigger with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4889 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03005">10.1088/1748-0221/5/03/T03005</a>.<br/>
+JINST 5 (2010) T03005.<br/>
+<br/>
+32) Identification and Filtering of Uncharacteristic Noise in the CMS Hadron Calorimeter<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4881 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03014">10.1088/1748-0221/5/03/T03014</a>.<br/>
+JINST 5 (2010) T03014.<br/>
+<br/>
+33) Performance of CMS Hadron Calorimeter Timing and Synchronization using Test Beam, Cosmic Ray, and LHC Beam Data<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4877 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03013">10.1088/1748-0221/5/03/T03013</a>.<br/>
+JINST 5 (2010) T03013.<br/>
+<br/>
+34) Performance of the CMS Drift Tube Chambers with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4855 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03015">10.1088/1748-0221/5/03/T03015</a>.<br/>
+JINST 5 (2010) T03015.<br/>
+<br/>
+35) Commissioning of the CMS Experiment and the Cosmic Run at Four Tesla<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4845 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03001">10.1088/1748-0221/5/03/T03001</a>.<br/>
+JINST 5 (2010) T03001.<br/>
+<br/>
+36) CMS Data Processing Workflows during an Extended Cosmic Ray Run<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4842 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03006">10.1088/1748-0221/5/03/T03006</a>.<br/>
+JINST 5 (2010) T03006.<br/>
+<br/>
+37) Aligning the CMS Muon Chambers with the Muon Alignment System during an Extended Cosmic Ray Run<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4770 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03019">10.1088/1748-0221/5/03/T03019</a>.<br/>
+JINST 5 (2010) T03019.<br/>
+<br/>
+38) Performance Study of the CMS Barrel Resistive Plate Chambers with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4045 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03017">10.1088/1748-0221/5/03/T03017</a>.<br/>
+JINST 5 (2010) T03017.<br/>
+<br/>
+39) Time Reconstruction and Performance of the CMS Electromagnetic Calorimeter<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4044 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03011">10.1088/1748-0221/5/03/T03011</a>.<br/>
+JINST 5 (2010) T03011.<br/>
+<br/>
+40) Alignment of the CMS Muon System with Cosmic-Ray and Beam-Halo Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4022 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03020">10.1088/1748-0221/5/03/T03020</a>.<br/>
+JINST 5 (2010) T03020.<br/>
+<br/>
+41) Precise Mapping of the Magnetic Field in the CMS Barrel Yoke using Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0910.5530 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03021">10.1088/1748-0221/5/03/T03021</a>.<br/>
+JINST 5 (2010) T03021.<br/>
+<br/>
+42) Performance and Operation of the CMS Electromagnetic Calorimeter<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0910.3423 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03010">10.1088/1748-0221/5/03/T03010</a>.<br/>
+JINST 5 (2010) T03010.<br/>
+<br/>
+43) Alignment of the CMS Silicon Tracker during Commissioning with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0910.2505 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03009">10.1088/1748-0221/5/03/T03009</a>.<br/>
+JINST 5 (2010) T03009.<br/>
+<br/>
+

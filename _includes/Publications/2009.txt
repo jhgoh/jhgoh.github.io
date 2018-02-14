@@ -1,0 +1,139 @@
+1) Commissioning and Performance of the CMS Pixel Tracker with Cosmic Ray Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.5434 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03007">10.1088/1748-0221/5/03/T03007</a>.<br/>
+JINST 5 (2010) T03007.<br/>
+<br/>
+2) Performance of the CMS Level-1 Trigger during Commissioning with Cosmic Ray Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.5422 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03002">10.1088/1748-0221/5/03/T03002</a>.<br/>
+JINST 5 (2010) T03002.<br/>
+<br/>
+3) Measurement of the Muon Stopping Power in Lead Tungstate<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.5397 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/P03007">10.1088/1748-0221/5/03/P03007</a>.<br/>
+JINST 5 (2010) P03007.<br/>
+<br/>
+4) Commissioning and Performance of the CMS Silicon Strip Tracker with Cosmic Ray Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4996 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03008">10.1088/1748-0221/5/03/T03008</a>.<br/>
+JINST 5 (2010) T03008.<br/>
+<br/>
+5) Performance of CMS Muon Reconstruction in Cosmic-Ray Events<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4994 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03022">10.1088/1748-0221/5/03/T03022</a>.<br/>
+JINST 5 (2010) T03022.<br/>
+<br/>
+6) Performance of the CMS Cathode Strip Chambers with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4992 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03018">10.1088/1748-0221/5/03/T03018</a>.<br/>
+JINST 5 (2010) T03018.<br/>
+<br/>
+7) Performance of the CMS Hadron Calorimeter with Cosmic Ray Muons and LHC Beam Data<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4991 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03012">10.1088/1748-0221/5/03/T03012</a>.<br/>
+JINST 5 (2010) T03012.<br/>
+<br/>
+8) Fine Synchronization of the CMS Muon Drift-Tube Local Trigger using Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4904 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03004">10.1088/1748-0221/5/03/T03004</a>.<br/>
+JINST 5 (2010) T03004.<br/>
+<br/>
+9) Calibration of the CMS Drift Tube Chambers and Measurement of the Drift Velocity with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4895 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03016">10.1088/1748-0221/5/03/T03016</a>.<br/>
+JINST 5 (2010) T03016.<br/>
+<br/>
+10) Performance of the CMS Drift-Tube Local Trigger with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4893 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03003">10.1088/1748-0221/5/03/T03003</a>.<br/>
+JINST 5 (2010) T03003.<br/>
+<br/>
+11) Commissioning of the CMS High-Level Trigger with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4889 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03005">10.1088/1748-0221/5/03/T03005</a>.<br/>
+JINST 5 (2010) T03005.<br/>
+<br/>
+12) Identification and Filtering of Uncharacteristic Noise in the CMS Hadron Calorimeter<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4881 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03014">10.1088/1748-0221/5/03/T03014</a>.<br/>
+JINST 5 (2010) T03014.<br/>
+<br/>
+13) Performance of CMS Hadron Calorimeter Timing and Synchronization using Test Beam, Cosmic Ray, and LHC Beam Data<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4877 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03013">10.1088/1748-0221/5/03/T03013</a>.<br/>
+JINST 5 (2010) T03013.<br/>
+<br/>
+14) Performance of the CMS Drift Tube Chambers with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4855 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03015">10.1088/1748-0221/5/03/T03015</a>.<br/>
+JINST 5 (2010) T03015.<br/>
+<br/>
+15) Commissioning of the CMS Experiment and the Cosmic Run at Four Tesla<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4845 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03001">10.1088/1748-0221/5/03/T03001</a>.<br/>
+JINST 5 (2010) T03001.<br/>
+<br/>
+16) CMS Data Processing Workflows during an Extended Cosmic Ray Run<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4842 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03006">10.1088/1748-0221/5/03/T03006</a>.<br/>
+JINST 5 (2010) T03006.<br/>
+<br/>
+17) Aligning the CMS Muon Chambers with the Muon Alignment System during an Extended Cosmic Ray Run<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4770 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03019">10.1088/1748-0221/5/03/T03019</a>.<br/>
+JINST 5 (2010) T03019.<br/>
+<br/>
+18) Performance Study of the CMS Barrel Resistive Plate Chambers with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4045 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03017">10.1088/1748-0221/5/03/T03017</a>.<br/>
+JINST 5 (2010) T03017.<br/>
+<br/>
+19) Time Reconstruction and Performance of the CMS Electromagnetic Calorimeter<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4044 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03011">10.1088/1748-0221/5/03/T03011</a>.<br/>
+JINST 5 (2010) T03011.<br/>
+<br/>
+20) Alignment of the CMS Muon System with Cosmic-Ray and Beam-Halo Muons<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0911.4022 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03020">10.1088/1748-0221/5/03/T03020</a>.<br/>
+JINST 5 (2010) T03020.<br/>
+<br/>
+21) Precise Mapping of the Magnetic Field in the CMS Barrel Yoke using Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0910.5530 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03021">10.1088/1748-0221/5/03/T03021</a>.<br/>
+JINST 5 (2010) T03021.<br/>
+<br/>
+22) Performance and Operation of the CMS Electromagnetic Calorimeter<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0910.3423 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03010">10.1088/1748-0221/5/03/T03010</a>.<br/>
+JINST 5 (2010) T03010.<br/>
+<br/>
+23) Alignment of the CMS Silicon Tracker during Commissioning with Cosmic Rays<br/>
+By CMS Collaboration (S Chatrchyan et al.).<br/>
+arXiv:0910.2505 [physics.ins-det].<br/>
+<a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03009">10.1088/1748-0221/5/03/T03009</a>.<br/>
+JINST 5 (2010) T03009.<br/>
+<br/>
+
