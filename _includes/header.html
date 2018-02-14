@@ -13,15 +13,15 @@
           <li class="nav-item {%if page.title == 'Publications'%}active{%endif%}">
             <a class="nav-link" href="Publications">Publications</a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="Research-CMS_Experiment">CMS experiment</a>
-              <!--<a class="dropdown-item" href="#">Machine Learning</a>-->
-            </div>
+          <li class="nav-item {%if page.title == 'Research'%}active{%endif%}">
+            <a class="nav-link" href="Research">Research</a>
           </li>
-          <li class="nav-item {%if page.title == 'Lecture'%}active{%endif%}">
-            <a class="nav-link disabled" href="#">Lecture</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lecture</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="Lecture/2018-Spring-Grad-ElectroDynamics">2018 봄 대학원 전자기학</a>
+              <a class="dropdown-item" href="Lecture/2018-Spring-EMPractice">2018 봄 전자기학 연습</a>
+            </div>
           </li>
           <li class="nav-item {%if page.title == 'Links'%}active{%endif%}">
             <a class="nav-link" href="Links">Links</a>
