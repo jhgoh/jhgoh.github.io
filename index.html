@@ -4,17 +4,25 @@ layout: default
 <div>
 
 <img src="/assets/img_jhgoh_lacBlanc.jpg" style="width:100%"/>
-<div style="float:center">
-<table style="margin:10px;width:700px;align:center;border-top:2px solid gray;border-bottom:2px solid gray"><tr>
-  <td width="150px"><img src="https://avatars0.githubusercontent.com/u/4388926?s=250" style="width:150px;padding:3px;border:1px solid black" /></td>
+<style>
+table.cv-card {
+  vertical-align:top;
+  width:700px;
+  margin:10px;
+  border-top:2px solid gray; border-bottom:2px solid gray;
+}
+</style>
+<div style="width:100%">
+<table class="cv-card"><tr style="padding-top:20px;padding-bottom:20px">
+  <td style="vertical-align:top;text-align:right" width="200px"><img src="https://avatars0.githubusercontent.com/u/4388926?s=250" style="width:150px;padding:3px;border:1px solid black" /></td>
   <td style="vertical-align:top;padding-left:5px">
     <h1 style="font-size:20pt">고정환 <span style="font-size:15pt;color:#333">Junghwan Goh</span></h1>
     <div class="social" style="padding-left:10px;font-size:9pt">
-      {%if site.username_github%}<a href="http://github.com/{{ site.username_github }}" target="_blank"><img class="icon" src="/assets/icon-github.png"/>http://github.com/{{ site.username_github }}</a>{%endif%}
-      {%if site.username_codepen%}<a href="http://codepen.io/{{ site.username_codepen }}" target="_blank"><img class="icon" src="/assets/icon-codepen.png"/>http://codepen.io/{{ site.username_codepen }}</a>{%endif%}
-      {%if site.username_twitter%}<a href="http://twitter.com/{{ site.username_twitter }}" target="_blank"><img class="icon" src="/assets/icon-twitter.png"/>http://twitter.com/{{ site.username_twitter }}</a>{%endif%}
-      {%if site.username_facebook%}<a href="http://facebook.com/{{ site.username_facebook }}" target="_blank"><img class="icon" src="/assets/icon-facebook.png"/>http://facebook.com/{{ site.username_facebook }}</a>{%endif%}
-      {%if site.email%}<a href="mailto:{{ site.email }}" target="_blank"><img class="icon" src="/assets/icon-email.png"/>{{site.email}}</a>{%endif%}
+      {%if site.username_github%}<a href="http://github.com/{{ site.username_github }}" target="_blank"><img class="icon" src="/assets/icon-github.png"/> http://github.com/{{ site.username_github }}</a>{%endif%}
+      {%if site.username_codepen%}<a href="http://codepen.io/{{ site.username_codepen }}" target="_blank"><img class="icon" src="/assets/icon-codepen.png"/> http://codepen.io/{{ site.username_codepen }}</a>{%endif%}
+      {%if site.username_twitter%}<a href="http://twitter.com/{{ site.username_twitter }}" target="_blank"><img class="icon" src="/assets/icon-twitter.png"/> http://twitter.com/{{ site.username_twitter }}</a>{%endif%}
+      {%if site.username_facebook%}<a href="http://facebook.com/{{ site.username_facebook }}" target="_blank"><img class="icon" src="/assets/icon-facebook.png"/> http://facebook.com/{{ site.username_facebook }}</a>{%endif%}
+      {%if site.email%}<a href="mailto:{{ site.email }}" target="_blank"><img class="icon" src="/assets/icon-email.png"/> {{site.email}}</a>{%endif%}
     </div>
     <hr/>
     <div style="padding-left:20px;font-size:10pt;">
@@ -30,23 +38,34 @@ layout: default
 <ul>
   <li>Top quark precision measurement at hadron colliders</li>
   <li>Deep Learning based particle reconstruction algorithms</li>
-  <li>Muon detector performance measurement and upgrade at CMS experiment</li>
+  <li>Muon detector performance measurement at CMS experiment</li>
+  <li>CMS Muon detector upgrade</li>
+  <li>Grid computing</li>
 </ul>
 
+
 <h2>Education and Experiences</h2>
-<table style="padding:5px;margin-left:5pt">
-  <tr><td>2018-present</td><td>Assistant Professor at Kyunghee University</td></tr>
-  <tr><td>2016-2018   </td><td>Research Professor at Hanyang University</td></tr>
+<style>
+table.cv-table {padding:5px;margin-left:5pt;border-top:1px solid gray;border-bottom:1px solid gray;}
+table.cv-table td {padding-left:10pt;}
+table.cv-table tr.linetop {border-top:1px solid gray}
+table.cv-table tr.linebot {border-bottom:1px solid gray}
+</style>
+<table class="cv-table">
+  <tr class="linetop"><td>2018-present</td><td>Assistant Professor at Kyunghee University</td></tr>
+  <tr class="linetop"><td>2016-2018   </td><td>Research Professor at Hanyang University</td></tr>
   <tr><td>2017-present</td><td>CMS RPC Detector Performance Group coordinator, CERN/LHC</td></tr>
   <tr><td>2017-2017   </td><td>CMS RPC Upgrade coordinator (deputy), CERN/LHC</td></tr>
-  <tr><td>2014-2017   </td><td>Postdoc at SungKyunKwan University</td></tr>
-  <tr><td>2014-2017   </td><td>CMS Muon Physics Object Group Software Coordinator &amp; RECO contact person (LV3)</td></tr>
+  <tr class="linetop"><td>2014-2017   </td><td>Postdoc at SungKyunKwan University</td></tr>
   <tr><td>2016-present</td><td>CMS RPC DPG RECO contact person</td></tr>
   <tr><td>2015-present</td><td>CMS RPC DPG Software Coordinator</td></tr>
-  <tr><td>2007-2014   </td><td>Ph.D Physics at SungKyunKwan University</td></tr>
+  <tr><td>2014-2017   </td><td>CMS Muon Physics Object Group Software Coordinator &amp; RECO contact person</td></tr>
+  <tr><td>2014-2017   </td><td>CMS TOPLHCWG pseudo-top contact person</td></tr>
+  <tr class="linetop"><td>2007-2014   </td><td>Ph.D Physics at SungKyunKwan University</td></tr>
   <tr><td>2005-2007   </td><td>M.S, Physics at SungKyunKwan University</td></tr>
-  <tr><td>2001-2005   </td><td>B.A, Astronomy and Physics at Yonsei University</td></tr>
+  <tr class="linebot"><td>2001-2005   </td><td>B.A, Astronomy and Physics at Yonsei University</td></tr>
 </table>
+
 
 <h2>Public activities</h2>
 <ul>
@@ -56,6 +75,7 @@ layout: default
   <li>2015: Lecturer, CMS Physics Analysis Toolkit (PAT) Tutorial, CERN, Switzerland</li>
   <li>2014: Tutor, CMS Physics Analysis Toolkit (PAT) Tutorial, CERN, Switzerland</li>
 </ul>
+
 
 <h2>Skills</h2>
 <ul>
