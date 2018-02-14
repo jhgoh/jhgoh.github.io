@@ -1,3 +1,4 @@
+{% raw %}
 1) Measurement of the $t \bar{t}$ production cross section in the dilepton channel in pp collisions at $\sqrt{s}$ = 8 TeV<br/>
 By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
 arXiv:1312.7582 [hep-ex].<br/>
@@ -905,3 +906,4 @@ arXiv:1012.3375 [hep-ex].<br/>
 Phys.Lett. B697 (2011) 434-453.<br/>
 <br/>
 
+{% endraw %}

@@ -1,3 +1,4 @@
+{% raw %}
 1) A New Boson with a Mass of 125 GeV Observed with the CMS Experiment at the Large Hadron Collider<br/>
 By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
 
@@ -814,3 +815,4 @@ arXiv:1107.1279 [hep-ex].<br/>
 <a href="http://dx.doi.org/10.1103/PhysRevD.85.012004">10.1103/PhysRevD.85.012004</a>.<br/>
 Phys.Rev. D85 (2012) 012004.<br/>
 <br/>
+{% endraw %}

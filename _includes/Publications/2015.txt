@@ -1,3 +1,4 @@
+{% raw %}
 1) Measurement of differential and integrated fiducial cross sections for Higgs boson production in the four-lepton decay channel in pp collisions at $ \sqrt{s}=7 $ and 8 TeV<br/>
 By CMS Collaboration (Vardan Khachatryan et al.).<br/>
 arXiv:1512.08377 [hep-ex].<br/>
@@ -779,3 +780,4 @@ arXiv:1311.6736, arXiv:1311.6736 [hep-ex].<br/>
 JHEP 1401 (2014) 163, Erratum: JHEP 1501 (2015) 014.<br/>
 <br/>
 
+{% endraw %}

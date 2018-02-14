@@ -1,14 +1,29 @@
 # Publications
-<table><tr><td>
+<div style="float:right">publication per year<br/><img src="https://inspirehep.net/img/tmp/8/8e68d2e3ef68853fa356afd65a365b2a.png" style="width:300px"/></div>
+
   * Publication list from [inspires-HEP](http://inspirehep.net/search?ln=en&p=author%3A%22{{site.username_spires}}%22+AND+collection%3Aciteable&rg=300&jrec=1)
     * [Collection of Journal publication](http://inspirehep.net/search?p=exactauthor%3A{{site.username_spires}}+collection%3APublished)
   * Profile from [inspires-HEP](http://inspirehep.net/author/profile/J.Goh.1)
-</td><td>publication per year <br/> <img src="https://inspirehep.net/img/tmp/8/8e68d2e3ef68853fa356afd65a365b2a.png" style="width:200px"/></td></tr></table>
 
-## Publication by year
-### 2017
-<div id="pub2017" class="collapse" style="font-size:9pt">{%include Publications/2017.txt%}</div>
-### 2016
-<div id="pub2016" class="collapse" style="font-size:9pt">{%include Publications/2016.txt%}</div>
-### 2015
-<div id="pub2015" class="collapse" style="font-size:9pt">{%include Publications/2015.txt%}</div>
+## Publications by year
+### <a href="#show2017" data-toggle="collapse">2017</a>
+<div id="show2017" class="panel-collapse collapse">{% include Publications/2017.txt %}</div>
+### <a href="#show2016" data-toggle="collapse">2016</a>
+<div id="show2016" class="panel-collapse collapse">{% include Publications/2016.txt %}</div>
+### <a href="#show2015" data-toggle="collapse">2015</a>
+<div id="show2015" class="panel-collapse collapse">{% include Publications/2015.txt %}</div>
+### <a href="#showBefore2015" data-toggle="collapse">Before 2015</a>
+<div id="showBefore2015" class="panel-collapse collapse">
+#### 2014
+{% include Publications/2014.txt %}
+#### 2013
+{% include Publications/2013.txt %}
+#### 2012
+{% include Publications/2012.txt %}
+#### 2011
+{% include Publications/2011.txt %}
+#### 2010
+{% include Publications/2010.txt %}
+#### 2009
+{% include Publications/2009.txt %}
+</div>

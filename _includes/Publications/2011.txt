@@ -1,3 +1,4 @@
+{% raw %}
 1) Measurement of the charge asymmetry in top-quark pair production in proton-proton collisions at $\sqrt{s}=7$ TeV<br/>
 By CMS Collaboration (Serguei Chatrchyan et al.).<br/>
 arXiv:1112.5100 [hep-ex].<br/>
@@ -491,3 +492,4 @@ arXiv:1010.5994 [hep-ex].<br/>
 Phys.Lett. B695 (2011) 424-443.<br/>
 <br/>
 
+{% endraw %}

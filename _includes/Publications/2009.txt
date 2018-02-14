@@ -1,3 +1,4 @@
+{% raw %}
 1) Commissioning and Performance of the CMS Pixel Tracker with Cosmic Ray Muons<br/>
 By CMS Collaboration (S Chatrchyan et al.).<br/>
 arXiv:0911.5434 [physics.ins-det].<br/>
@@ -136,4 +137,4 @@ arXiv:0910.2505 [physics.ins-det].<br/>
 <a href="http://dx.doi.org/10.1088/1748-0221/5/03/T03009">10.1088/1748-0221/5/03/T03009</a>.<br/>
 JINST 5 (2010) T03009.<br/>
 <br/>
-
+{% endraw %}

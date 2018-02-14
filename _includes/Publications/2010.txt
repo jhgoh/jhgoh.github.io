@@ -1,3 +1,4 @@
+{% raw %}
 1) Search for a heavy gauge boson $W$ ' in the final state with an electron and large missing transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV<br/>
 By CMS Collaboration (Vardan Khachatryan et al.).<br/>
 arXiv:1012.5945 [hep-ex].<br/>
@@ -257,3 +258,4 @@ arXiv:0910.2505 [physics.ins-det].<br/>
 JINST 5 (2010) T03009.<br/>
 <br/>
 
+{% endraw %}

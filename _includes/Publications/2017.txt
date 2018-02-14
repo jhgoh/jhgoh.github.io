@@ -1,3 +1,4 @@
+{% raw %}
 1) Search for pair production of excited top quarks in the lepton + jets final state<br/>
 By CMS Collaboration (Albert M Sirunyan et al.).<br/>
 arXiv:1711.10949 [hep-ex].<br/>
@@ -791,3 +792,4 @@ arXiv:1509.03750 [hep-ex].<br/>
 Phys.Rev. D93 (2016) no.3,  032005, Erratum: Phys.Rev. D95 (2017) no.3,  039906.<br/>
 <br/>
 
+{% endraw %}

@@ -1,3 +1,4 @@
+{% raw %}
 1) Search for high-mass $\mathrm{ Z }\gamma$ resonances in proton-proton collisions at $\sqrt{s}=$ 8 and 13 TeV using jet substructure techniques<br/>
 By CMS Collaboration (Albert M Sirunyan et al.).<br/>
 arXiv:1612.09516 [hep-ex].<br/>
@@ -947,3 +948,4 @@ arXiv:1406.0113 [hep-ex].<br/>
 Phys.Lett. B740 (2015) 250-272, Erratum: Phys.Lett. B757 (2016) 569-569.<br/>
 <br/>
 
+{% endraw %}
