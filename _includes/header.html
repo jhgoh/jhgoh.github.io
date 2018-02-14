@@ -10,6 +10,9 @@
           <li class="nav-item {%if page.title%}{%else%}active{%endif%}">
             <a class="nav-link" href="/">Home</a>
           </li>
+          <li class="nav-item {%if page.title == 'Publications'%}active{%endif%}">
+            <a class="nav-link" href="Publications">Publications</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
@@ -17,14 +20,14 @@
               <!--<a class="dropdown-item" href="#">Machine Learning</a>-->
             </div>
           </li>
-          <li class="nav-item {%if page.title == 'Publications'%}active{%endif%}">
-            <a class="nav-link" href="Publications">Publications</a>
-          </li>
           <li class="nav-item {%if page.title == 'Lecture'%}active{%endif%}">
             <a class="nav-link disabled" href="#">Lecture</a>
           </li>
           <li class="nav-item {%if page.title == 'Links'%}active{%endif%}">
             <a class="nav-link" href="Links">Links</a>
+          </li>
+          <li class="nav-item {%if page.title == 'Gallery'%}active{%endif%}">
+            <a class="nav-link" href="Gallery">Gallery</a>
           </li>
           <li class="nav-item {%if page.title == 'Group'%}active{%endif%}">
             <a class="nav-link disabled" href="#">Group page</a>
