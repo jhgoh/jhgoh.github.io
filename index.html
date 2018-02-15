@@ -14,8 +14,8 @@ table.cv-card {
 </style>
 <div style="width:100%;margin:auto;padding:10px;">
 <table class="cv-card"><tr style="padding-top:20px;padding-bottom:20px">
-  <td style="vertical-align:top;text-align:right" width="170px"><img src="https://avatars0.githubusercontent.com/u/4388926?s=250" style="width:150px;padding:3px;border:1px solid black" /></td>
-  <td style="vertical-align:top;padding-left:5px">
+  <td rowspan="2" style="vertical-align:top;text-align:right" width="170px"><img src="https://avatars0.githubusercontent.com/u/4388926?s=250" style="width:150px;padding:3px;border:1px solid black" /></td>
+  <td colspan="2" style="vertical-align:top;padding-left:5px">
     <h1 style="border:0;font-size:20pt">고정환 <span style="font-size:15pt;color:#333">Junghwan Goh</span></h1>
     <div class="social" style="padding-left:10px;font-size:9pt">
       {%if site.username_github%}<a href="http://github.com/{{ site.username_github }}" target="_blank"><img class="icon" src="/assets/icon-github.png"/> http://github.com/{{ site.username_github }}</a>{%endif%}
@@ -25,16 +25,18 @@ table.cv-card {
       {%if site.email%}<a href="mailto:{{ site.email }}" target="_blank"><img class="icon" src="/assets/icon-email.png"/> {{site.email}}</a>{%endif%}
     </div>
     <hr/>
-    <div style="padding-left:20px;padding-right:10px;font-size:10pt;text-align:right;border-right:1px solid gray">
-      <span>한양대학교 연구조교수</span><br/>
-      <span>CERN LHC/CMS 실험 RPC-DPG 코디네이터</span></br>
-      <span style="color:#333">데이터 분석가 &amp; 소프트웨어 개발</span>
-    </div>
-    <div style="padding-left:20px;font-size:10pt;text-align:left">
-      <span>Research Assistant Professor at Hanyang University</span><br/>
-      <span>CERN LHC/CMS experiment RPC-DPG Coordinator</span></br>
-      <span style="color:#333">Data analysist &amp; Software developer</span>
-    </div>
+  </td>
+</tr>
+<tr>
+  <td style="padding-left:20px;padding-right:10px;font-size:10pt;text-align:right;border-right:1px solid gray">
+    <span>한양대학교 연구조교수</span><br/>
+    <span>CERN LHC/CMS 실험 RPC-DPG 코디네이터</span></br>
+    <span style="color:#333">데이터 분석 &amp; 소프트웨어 개발</span>
+  </td>
+  <td style="padding-left:20px;font-size:10pt;text-align:left">
+    <span>Research Assistant Professor at Hanyang University</span><br/>
+    <span>CERN LHC/CMS experiment RPC-DPG Coordinator</span></br>
+    <span style="color:#333">Data analysis &amp; Software development</span>
   </td>
 </tr></table>
 </div>
