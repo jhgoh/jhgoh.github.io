@@ -14,16 +14,16 @@
 <div id="show2015" class="panel-collapse collapse">{% include Publications/2015.txt %}</div>
 ### <a href="#showBefore2015" data-toggle="collapse">Before 2015</a>
 <div id="showBefore2015" class="panel-collapse collapse">
-#### 2014
+<h4>2014</h4>
 {% include Publications/2014.txt %}
-#### 2013
+<h4>2013</h4>
 {% include Publications/2013.txt %}
-#### 2012
+<h4>2012</h4>
 {% include Publications/2012.txt %}
-#### 2011
+<h4>2011</h4>
 {% include Publications/2011.txt %}
-#### 2010
+<h4>2010</h4>
 {% include Publications/2010.txt %}
-#### 2009
+<h4>2009</h4>
 {% include Publications/2009.txt %}
 </div>
