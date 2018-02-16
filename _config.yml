@@ -1,16 +1,7 @@
 # Site settings
 title: Junghwan GOH
-email: jhgoh@cern.ch
-description: Junghwan GOH, Ph.D Particle Physics Experiment
 baseurl: ""
 url: "https://jhgoh.github.io"
-name: Junghwan GOH
 location: Seoul, Republic of Korea
-username_github:  jhgoh
-username_spires:  J.Goh.1
-username_twitter:
-username_codepen:
-username_orcid: "0000-0002-1129-2083"
-
 # Build settings
 markdown: kramdown
