@@ -9,11 +9,26 @@ table.cv-card {
   vertical-align:top;
   width:900px;
   margin:10px;
-  border-top:2px solid gray; border-bottom:2px solid gray;
+}
+hr.cv-card {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333; text-align: center;
+}
+hr.cv-card:after {
+  content: "///";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: white;
 }
 </style>
 <div style="width:100%;margin:auto;padding:10px;">
-<hr/>
+<hr class="cv-card" />
 <table class="cv-card"><tr>
   <td rowspan="2" style="vertical-align:top;text-align:right" width="170px"><img src="https://avatars0.githubusercontent.com/u/4388926?s=250" style="width:150px;padding:3px;border:1px solid black" /></td>
   <td colspan="2" style="vertical-align:top;padding-left:5px">
@@ -39,7 +54,7 @@ table.cv-card {
     <span style="color:#333">Data analysis &amp; Software development</span>
   </td>
 </tr></table>
-<hr/>
+<hr class="cv-card" />
 </div>
 
 <h2>Research Interests</h2>
