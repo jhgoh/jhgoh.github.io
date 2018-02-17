@@ -10,6 +10,8 @@ table.cv-card {
   width:900px;
   margin:10px;
 }
+table.cv-card a {color:#777;}
+table.cv-card a:hover {color:#333;}
 hr.cv-card {
   overflow: visible; /* For IE */
   padding: 0;
@@ -17,7 +19,7 @@ hr.cv-card {
   border-top: medium double #333;
   color: #333; text-align: center;
 }
-hr.cv-card:after {
+hr.cv-card-inter:after {
   content: "* * *";
   display: inline-block;
   position: relative;
@@ -26,14 +28,12 @@ hr.cv-card:after {
   padding: 0 0.25em;
   background: white;
 }
-hr.cv_card a {color:#777;}
-hr.cv_card a:hover {color:#333;}
 </style>
 <div style="width:100%;margin:auto;padding:10px;">
 <hr class="cv-card" />
 <table class="cv-card"><tr>
   <td rowspan="2" style="vertical-align:top;text-align:right" width="170px"><img src="https://avatars0.githubusercontent.com/u/4388926?s=250" style="width:150px;padding:3px;border:1px solid black" /></td>
-  <td colspan="2" style="vertical-align:top;padding-left:200px;text-align:left">
+  <td colspan="2" style="vertical-align:top;text-align:center">
     <h1 style="border:0;font-size:20pt">{{site.data.userinfo.name_kr}} <span style="font-size:15pt;color:#333">{{site.data.userinfo.name_en}}</span></h1>
     <div class="social" style="padding-left:10px;font-size:9pt">
       {%if site.data.userinfo.github%}<a href="http://github.com/{{ site.data.userinfo.github }}" target="_blank"><img class="icon" src="/assets/icon-16x16/github.png"/> http://github.com/{{ site.data.userinfo.github }}</a>{%endif%}
