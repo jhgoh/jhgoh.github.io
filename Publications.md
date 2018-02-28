@@ -1,9 +1,9 @@
 # Publications
-<div style="float:right">publication per year<br/><img src="https://inspirehep.net/img/tmp/8/8e68d2e3ef68853fa356afd65a365b2a.png" style="width:300px"/></div>
+<div style="float:right">publication per year</div>
 
-  * Publication list from [inspires-HEP](http://inspirehep.net/search?ln=en&p=author%3A%22{{site.username_spires}}%22+AND+collection%3Aciteable&rg=300&jrec=1)
-    * [Collection of Journal publication](http://inspirehep.net/search?p=exactauthor%3A{{site.username_spires}}+collection%3APublished)
-  * Profile from [inspires-HEP](http://inspirehep.net/author/profile/J.Goh.1)
+  * Publication list from [inspires-HEP](http://inspirehep.net/search?ln=en&p=author%3A%22{{site.data.userinfo.spires}}%22+AND+collection%3Aciteable&rg=300&jrec=1)
+    * [Collection of Journal publication](http://inspirehep.net/search?p=exactauthor%3A{{site.data.userinfo.spires}}+collection%3APublished)
+  * Profile from [inspires-HEP](http://inspirehep.net/author/profile/{{site.data.userinfo.spires}})
 
 ## Publications by year
 ### <a href="#show2017" data-toggle="collapse">2017</a>
