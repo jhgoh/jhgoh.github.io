@@ -179,12 +179,6 @@ arXiv:1409.4789 [hep-ex].<br/>
 <a href="http://dx.doi.org/10.1103/PhysRevLett.114.061801">10.1103/PhysRevLett.114.061801</a>.<br/>
 Phys.Rev.Lett. 114 (2015) no.6,  061801.<br/>
 <br/>
-31) ARC: A compact, high-field, fusion nuclear science facility and demonstration power plant with demountable magnets<br/>
-By B.N. Sorbom et al..<br/>
-arXiv:1409.3540 [physics.plasm-ph].<br/>
-<a href="http://dx.doi.org/10.1016/j.fusengdes.2015.07.008">10.1016/j.fusengdes.2015.07.008</a>.<br/>
-Fusion Eng.Des. 100 (2015) 378-405.<br/>
-<br/>
 32) Long-range two-particle correlations of strange hadrons with charged particles in pPb and PbPb collisions at LHC energies<br/>
 By CMS Collaboration (Vardan Khachatryan et al.).<br/>
 arXiv:1409.3392 [nucl-ex].<br/>
