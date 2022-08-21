@@ -1,6 +1,6 @@
 # Lectures
 
-<table>
+<table class="intable">
   <tr><td></td><th>1학기</th><th>2학기</th></tr>
   <tr><th>2022</th><td>PHYS2309 현대물리학<br/>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3320 독립심화학습1</td><td></td></tr>
   <tr><th>2021</th><td>PHYS2309 현대물리학<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3320 독립심화학습1</td><td>PHYS7014 양자역학I (일반대학원 물리학과)<br/>BDA712 머신러닝프로그래밍 (일반대학원 빅데이터응용학과)<br/>PHYS4314 빅데이터물리학<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3319 독립심화학습2</td></tr>
