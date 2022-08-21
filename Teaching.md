@@ -1,5 +1,14 @@
 # Lectures
 
+<table>
+  <tr><td></td><th>1학기</th><th>2학기</th></tr>
+  <tr><th>2022</th><td></td><td></td></tr>
+  <tr><th>2021</th><td></td><td></td></tr>
+  <tr><th>2020</th><td></td><td></td></tr>
+  <tr><th>2019</th><td></td><td></td></tr>
+  <tr><th>2018</th><td></td><td></td></tr>
+</table>
+  
 || **1학기** | **2학기** |
 |---|---|---|
 | **2022** | PHYS2309 현대물리학<br/>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3320 독립심화학습1 |  |
