@@ -23,5 +23,5 @@
 
 | 발표장소 | 발표자 | 주제 | 특이사항 |
 | ------- | ---- | -------- | ---- |
-| 2021.10 KPS 학부생작품발표회 | 오준원 | Implementation of FPGA HW Accelerator for Optimal Pulse Alignment with Pytorch | 장려상 |
+| 2021.11 KPS 학부생작품발표회 | 오준원 | Implementation of FPGA HW Accelerator for Optimal Pulse Alignment with Pytorch | 장려상 |
 | 2019.10 KPS 학부생작품발표회 | 배동성, 남호경(경북대) | Application of Convolutional Neural Network on R-Parity Violating Supersymmetry event classification based on Scalable Deep Learning | 우수상 |
