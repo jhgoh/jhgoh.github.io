@@ -2,6 +2,7 @@
 
 <table class="table">
   <tr><td></td><th>1학기</th><th>2학기</th></tr>
+  <tr><th>2023</th><td>PHYS2309 현대물리학<br/>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지</td><td>PHYS7119 양자역학I (대학원 물리학과)<br/>PHYS4314 빅데이터물리학<br/>SCIM3003 데이터분산처리<br/>GEC0103 빅뱅에서문명까지</td></tr>
   <tr><th>2022</th><td>PHYS2309 현대물리학<br/>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3320 독립심화학습1</td><td>PHYS7119 양자역학I (대학원 물리학과)<br/>PHYS7111 첨단데이터컴퓨팅물리학 (대학원 물리학과)<br/>PHYS4314 빅데이터물리학<br/>SCIM3003 데이터분산처리</td></tr>
   <tr><th>2021</th><td>PHYS2309 현대물리학<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3320 독립심화학습1</td><td>PHYS7014 양자역학I (대학원 물리학과)<br/>BDA712 머신러닝프로그래밍 (대학원 빅데이터응용학과)<br/>PHYS4314 빅데이터물리학<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3319 독립심화학습2</td></tr>
   <tr><th>2020</th><td>PHYS4310 핵과기본입자<br/>GEC0103 빅뱅에서 문명까지</td><td>PHYS7014 양자역학I (대학원 물리학과)<br/>PHYS4314 빅데이터물리학<br/>EDPH7003 핵및입자물리학개론 (교육대학원)<br/>GEC0103 빅뱅에서문명까지</td></tr>
