@@ -15,6 +15,7 @@
 
 | 학기 | 수강생 | 주제 |
 | ----------- | ----- | --------------------------------------- |
+| 2023년 2학기 | 방준형 | LHC를 위한 고성능 컴퓨팅 몬테카를로 제네레이션 개발 |
 | 2022년 1학기 | 황현호 | FPGA를 공부하기 위해 필요한 디지털 논리회로 학습 |
 | 2022년 2학기 | 오준원 | FPGA를 이용한 입자 검출기 센서 데이터 분석 |
 | 2021년 1학기 | 신종원 | CMS 뮤온 검출기 모니터링 |
@@ -26,5 +27,6 @@
 
 | 발표장소 | 발표자 | 주제 | 특이사항 |
 | ------- | ---- | -------- | ---- |
+| 2023.11 KPS | 방준형 | Development of MC generation on HPC for LHC | 포스터 발표 |
 | 2021.11 KPS 학부생작품발표회 | 오준원 | Implementation of FPGA HW Accelerator for Optimal Pulse Alignment with Pytorch | 장려상 |
 | 2019.10 KPS 학부생작품발표회 | 배동성, 남호경(경북대) | Application of Convolutional Neural Network on R-Parity Violating Supersymmetry event classification based on Scalable Deep Learning | 우수상 |
