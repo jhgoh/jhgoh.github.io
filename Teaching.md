@@ -11,7 +11,7 @@
   <tr><th>2019</th><td>PHYS7092 물리학특수연구Ⅰ(대학원 물리학과)<br/>PHYS1101 물리학및실험1(실험)<br/>GEC0103 빅뱅에서 문명까지</td><td>PHYS7014 양자역학I (대학원 물리학과)<br/>PHYS3319 독립심화학습2<br/>PHYS1102 물리학및실험2(실험)<br/>GEC0103 빅뱅에서 문명까지</td></tr>
   <tr><th>2018</th><td>PHYS7009 고전전자기학1 (대학원 물리학과)<br/>PHYS1101 물리학및실험1(실험)<br/>PHYS3309 전자기학연습II</td><td>PHYS2308 전자기학연습I<br/>PHYS1102 물리학및실험2(실험)<br/>GEC0103 빅뱅에서 문명까지</td></tr>
 </table>
-
+<br/>
 
 ## 독립심화학습 연구지도
 
@@ -23,7 +23,7 @@
 | 2021년 1학기 | 신종원 | CMS 뮤온 검출기 모니터링 |
 | 2021년 1학기 | 오준원 | Xilinx PYNQ-Z2 FPGA를 활용한 Deep Learning 모델 구현 |
 | 2019년 2학기 | 손정범 | 딥 러닝을 이용한 양성자 충돌 실험 데이터 분석 |
-
+<br/>
 
 ## 학부생 발표회 / 경진대회 지도
 
@@ -32,3 +32,4 @@
 | 2023.11 KPS | 방준형 | Development of MC generation on HPC for LHC | 포스터 발표 |
 | 2021.11 KPS 학부생작품발표회 | 오준원 | Implementation of FPGA HW Accelerator for Optimal Pulse Alignment with Pytorch | 장려상 |
 | 2019.10 KPS 학부생작품발표회 | 배동성, 남호경(경북대) | Application of Convolutional Neural Network on R-Parity Violating Supersymmetry event classification based on Scalable Deep Learning | 우수상 |
+<br/>
