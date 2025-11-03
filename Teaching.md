@@ -2,6 +2,7 @@
 
 <table class="table">
   <tr><td></td><th>1학기</th><th>2학기</th></tr>
+  <tr><th>2025</th><td>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지<br/>SICM4001 캡스톤디자인 (과학지능정보)</td><td>PHYS4314 빅데이터물리학<br/>SCIM3003 데이터분산처리<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3315 캡스톤디자인2(물리)</td></tr>
   <tr><th>2024</th><td colspan="2">연구년</td></tr>
   <tr><th>2023</th><td>PHYS2309 현대물리학<br/>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지</td><td>PHYS7119 양자역학I (대학원 물리학과)<br/>PHYS4314 빅데이터물리학<br/>SCIM3003 데이터분산처리<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3319 독립심화학습2</td></tr>
   <tr><th>2022</th><td>PHYS2309 현대물리학<br/>PHYS4310 핵과기본입자<br/>SICM3001 머신러닝<br/>GEC0103 빅뱅에서문명까지<br/>PHYS3320 독립심화학습1</td><td>PHYS7119 양자역학I (대학원 물리학과)<br/>PHYS7111 첨단데이터컴퓨팅물리학 (대학원 물리학과)<br/>PHYS4314 빅데이터물리학<br/>SCIM3003 데이터분산처리</td></tr>
