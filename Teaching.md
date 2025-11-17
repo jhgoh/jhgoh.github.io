@@ -23,6 +23,7 @@
 | 2021년 1학기 | 신종원 | CMS 뮤온 검출기 모니터링 |
 | 2021년 1학기 | 오준원 | Xilinx PYNQ-Z2 FPGA를 활용한 Deep Learning 모델 구현 |
 | 2019년 2학기 | 손정범 | 딥 러닝을 이용한 양성자 충돌 실험 데이터 분석 |
+
 <br/>
 
 ## 학부생 발표회 / 경진대회 지도
@@ -32,4 +33,5 @@
 | 2023.11 KPS | 방준형 | Development of MC generation on HPC for LHC | 포스터 발표 |
 | 2021.11 KPS 학부생작품발표회 | 오준원 | Implementation of FPGA HW Accelerator for Optimal Pulse Alignment with Pytorch | 장려상 |
 | 2019.10 KPS 학부생작품발표회 | 배동성, 남호경(경북대) | Application of Convolutional Neural Network on R-Parity Violating Supersymmetry event classification based on Scalable Deep Learning | 우수상 |
+
 <br/>
