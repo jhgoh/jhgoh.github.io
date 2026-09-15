@@ -7,7 +7,8 @@
 - 2023.02, 정호경 석사(경희대), "Machine-Learning based FOG detection in Parkinson's Disease Patients"
 
 ## As committee member of Ph.D
-- 2025.08, 박성민 박사(경희대, 지도교수: 원창연), "Generation and Optimization of Topological Magnetic Structures via Deep Generative Models"
+- 2026.08, 박성민 박사(경희대, 지도교수: 원창연), "Generation and Optimization of Topological Magnetic Structures via Deep Generative Models"
+- 2026.02, 윤한규 박사(경희대, 지도교수: 원창연), "AI-Driven Computational Frameworks for Modeling and Understanding 2D Magnetic Structures"
 - 2025.08, 고병학 박사(시립대, 지도교수: 박인규), "Measurement of CP violation in single top t-channel production in pp collision at 13 TeV with the CMS detector"
 - 2025.08, 이윤재 박사(시립대, 지도교수: 이상훈), "Search for Supersymmetry in the VBF 0-Lepton Channel at the CMS Experiment andDeep Learning-Based Particle Identification in the Calorimeter"
 - 2025.08, 박경환 박사(전남대, 지도교수: 문동호), "Measurement of charmonium elliptic flow and modification factor of ψ(2S) in pp and PbPb collisions at √sNN = 5.02 TeV with CMS"
@@ -21,6 +22,10 @@
 - 2020.08, 김진호 박사(경희대, 지도교수: 육순형), "Nonequilibrium Statistical Property and Modeling of the Financial Time Series"
 
 ## As committee member of Master
+- 2026.02, 문태정 석사(경희대, 지도교수: 원창연), "AI 기반 유전자 알고리즘을 이용한 유한 크기 인공 스핀아이스의 경계 효과 탐구"
+- 2025.08, 김은서 석사(경희대, 지도교수: 육순형), "전달 엔트로피의 물리적 특성과 이를 이용한 상호작용 구조 분석"
+- 2025.08, 김화랑 석사(경희대, 지도교수: 육순형), "밀도행렬을 이용한 동역학적 상전이 현상 연구"
+- 2025.08, 박성순 석사(경희대, 지도교수: 육순형), "초기값 분포와 상호작용 구조가 확산계의 지속성에 미치는 영향"
 - 2025.02, 서해찬 석사(경희대, 지도교수: 육순형), "복잡계 네트워크 위에서의 정보전파 및 전염병 전파의 동역학적 특성"
 - 2023.02, 김관우 석사(경희대, 지도교수: 육순형), "복잡계 네트워크 구조 위에서 전파되는 정보의 동역학적 특성에 관한 연구"
 - 2023.02, 김정영 석사(경희대, 지도교수: 육순형), "흥분-억제 결합 신경그물망의 동기화 및 정보이론적 특성"
